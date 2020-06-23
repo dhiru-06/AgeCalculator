@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f59f345ae537c701786a7cb7b473bacb",
+    "revision": "98529364ebdc17b71d3dc9c281c2aab3",
     "url": "/AgeCalculator/index.html"
   },
   {
-    "revision": "e57eed0d3bdfe6ec6b17",
+    "revision": "d5c7071c2e8f2d52afac",
     "url": "/AgeCalculator/static/css/main.5f8b556a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AgeCalculator/static/js/2.8375888e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e57eed0d3bdfe6ec6b17",
-    "url": "/AgeCalculator/static/js/main.c7d58a50.chunk.js"
+    "revision": "d5c7071c2e8f2d52afac",
+    "url": "/AgeCalculator/static/js/main.bc88aa43.chunk.js"
   },
   {
     "revision": "b34b3e39b2a48d767baa",
