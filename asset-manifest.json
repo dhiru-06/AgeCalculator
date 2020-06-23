@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AgeCalculator/static/css/main.48833752.chunk.css",
-    "main.js": "/AgeCalculator/static/js/main.2ddf572f.chunk.js",
-    "main.js.map": "/AgeCalculator/static/js/main.2ddf572f.chunk.js.map",
+    "main.css": "/AgeCalculator/static/css/main.5f8b556a.chunk.css",
+    "main.js": "/AgeCalculator/static/js/main.c7d58a50.chunk.js",
+    "main.js.map": "/AgeCalculator/static/js/main.c7d58a50.chunk.js.map",
     "runtime-main.js": "/AgeCalculator/static/js/runtime-main.df3ced9d.js",
     "runtime-main.js.map": "/AgeCalculator/static/js/runtime-main.df3ced9d.js.map",
-    "static/js/2.25ee997e.chunk.js": "/AgeCalculator/static/js/2.25ee997e.chunk.js",
-    "static/js/2.25ee997e.chunk.js.map": "/AgeCalculator/static/js/2.25ee997e.chunk.js.map",
+    "static/js/2.8375888e.chunk.js": "/AgeCalculator/static/js/2.8375888e.chunk.js",
+    "static/js/2.8375888e.chunk.js.map": "/AgeCalculator/static/js/2.8375888e.chunk.js.map",
     "index.html": "/AgeCalculator/index.html",
-    "precache-manifest.19c4919210c71d2acb64f26237046ae8.js": "/AgeCalculator/precache-manifest.19c4919210c71d2acb64f26237046ae8.js",
+    "precache-manifest.b5c84b67325f2b45af9eb40d63d0fa8f.js": "/AgeCalculator/precache-manifest.b5c84b67325f2b45af9eb40d63d0fa8f.js",
     "service-worker.js": "/AgeCalculator/service-worker.js",
-    "static/css/main.48833752.chunk.css.map": "/AgeCalculator/static/css/main.48833752.chunk.css.map",
-    "static/js/2.25ee997e.chunk.js.LICENSE.txt": "/AgeCalculator/static/js/2.25ee997e.chunk.js.LICENSE.txt"
+    "static/css/main.5f8b556a.chunk.css.map": "/AgeCalculator/static/css/main.5f8b556a.chunk.css.map",
+    "static/js/2.8375888e.chunk.js.LICENSE.txt": "/AgeCalculator/static/js/2.8375888e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df3ced9d.js",
-    "static/js/2.25ee997e.chunk.js",
-    "static/css/main.48833752.chunk.css",
-    "static/js/main.2ddf572f.chunk.js"
+    "static/js/2.8375888e.chunk.js",
+    "static/css/main.5f8b556a.chunk.css",
+    "static/js/main.c7d58a50.chunk.js"
   ]
 }
